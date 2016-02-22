@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/menu/activity_item_2.xml -->

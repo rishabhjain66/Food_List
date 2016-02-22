@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="blue">#00F</color>
+    <!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Bresto </string>
+    <string name="item_calories">calories</string>
+    <string name="item_description">food description</string>
+    <string name="item_pub_date">calories</string>
+    <string name="item_title">foodname</string>
+    <string name="items_title">CNN.com Technology</string>
+    <string name="loading">Loading RSS Feed..</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

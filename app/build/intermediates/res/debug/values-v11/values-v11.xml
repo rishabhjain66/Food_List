@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+</resources>

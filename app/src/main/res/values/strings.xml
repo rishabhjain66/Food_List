@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bresto </string>
+    <string name="loading">Loading RSS Feed..</string>
+    <string name="items_title">CNN.com Technology</string>
+    <string name="item_pub_date">calories</string>
+    <string name="item_title">foodname</string>
+    <string name="item_description">food description</string>
+    <string name="item_calories">calories</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

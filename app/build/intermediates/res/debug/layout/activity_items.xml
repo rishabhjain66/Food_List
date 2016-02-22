@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFAC83"
+        android:padding="7dp"
+        android:text="Food benefits"
+        android:textSize="22sp" />
+    
+    <ListView
+        android:id="@+id/itemsListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout><!-- From: file:/Users/rishabhjain/Desktop/sem%201/IOS%20PROGRAMMING/android%20/Android%20Lab%20test%20and%20assignments/LAB%202%20by%20c0655065/app/src/main/res/layout/activity_items.xml -->
